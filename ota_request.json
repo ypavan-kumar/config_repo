@@ -1,0 +1,7 @@
+{
+    "projectId": "AKL",
+    "deviceId": "GW001",
+    "OTAConfigURL": "https://raw.githubusercontent.com/ypavan-kumar/config_repo/main/config.enc",
+    "Configsize": 144,
+    "url_len": 74
+}
